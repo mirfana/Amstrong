@@ -16,6 +16,7 @@ public class DeretAmstrong {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("Sample : 9474 = 94 + 44 +74 + 44 (9^4 + 4^4 + 7^4 + 4^4)");
         System.out.println("Enter a number: 9474");
         System.out.println("9474 is an armstrong number");
     }
